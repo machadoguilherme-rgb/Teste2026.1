@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260616112844R4IX60</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606161128441T46WC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Círculo Trigonométrico</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Trabalho elaborado para auxiliar no ensino sobre o círculo trigonométrico de forma mais dinâmica.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Guilherme Machado Ferreira e Samara Cardoso Reis</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>O trabalho tem o intuito de auxiliar os alunos, do 2° ano do ensino médio, no estudo do círculo trigonométrico, de forma mais dinâmica, visando o aluno e sua interação com o projeto como prioridade. O exelearning contêm, um breve resumo sobre os principais tópicos do círculo trigonométrico, caso o aluno tenha uma pequena dúvida sobre alguns tópicos mais importantes do conteúdo, um vídeo interativo, explicando mais a fundo as propriedades do círculo trigonométrico, um questionário para avaliar o desempenho dos alunos e por fim uma parte de feedbacks para os alunos mostrarem suas perspectivas e sua experiência com esse método de ensino mais dinâmico.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>pt</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non derived work - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-nd/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781620097807</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Círculo Trigonométrico</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Círculo Trigonométrico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Círculo Trigonométrico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Círculo Trigonométrico</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+      <odeBlockId>block-1780951607229-sk1p6jy9s</odeBlockId>
+      <blockName>Professores</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+          <odeBlockId>block-1780951607229-sk1p6jy9s</odeBlockId>
+          <odeIdeviceId>idevice-1780951607227-ata6ioml1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;"><span style="background-color: #ffffff;">Guilherme Machado Ferreira e </span><span style="background-color: #ffffff;">Samara Cardoso Reis</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780951607227-ata6ioml1","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p style=\"text-align: left;\"><span style=\"background-color: #ffffff;\">Guilherme Machado Ferreira e </span><span style=\"background-color: #ffffff;\">Samara Cardoso Reis</span></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+      <odeBlockId>block-1779132397341-kj7mdg785</odeBlockId>
+      <blockName>Resumo — Círculo Trigonométrico</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+          <odeBlockId>block-1779132397341-kj7mdg785</odeBlockId>
+          <odeIdeviceId>idevice-1779132397334-0z6xsn74p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1. O que é o círculo trigonométrico?</span></span></span></span></span></span></span></span></strong></span><br /><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> </span></span></span></span></span></span></span></span></span></p>
+<p><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">O círculo trigonométrico é uma circunferência de raio 1, com centro na origem do plano cartesiano.</span></span></span></span></span></span></span></span></span><img src="{{context_path}}/content/resources/image.png" width="332" height="275" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Ele é usado para estudar:</span></span></span></span></span></span></span></span></span></p>
+<ul>
+<li><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Seno (eixo y)</span></span></span></span></span></span></span></span></span><br /></li>
+<li><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Cosseno (eixo x)</span></span></span></span></span></span></span></span></span></li>
+<li><span style="font-size: 14pt;"><span style="font-size: 14pt;"><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tangente (\( \tan(α)=\frac{sen(α)}{\cos(α)}\))</span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 14pt;"><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><br /></span></span></span></span></span></span></span></span></li>
+<li><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Localização dos ângulo</span></span></span></span></span></span></span></span></span><br /></li>
+<li><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Conversão entre graus e radianos</span></span></span></span></span></span></span></span></span></li>
+</ul>
+<p><span style="font-size: 18pt;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2. Sentido dos ângulos</span></span></span></span></span></span></span></span></strong></span><br /></p>
+<ul>
+<li><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">O ângulo começa no eixo x positivo.</span></span></span></span></span></span></span></span></span><br /></li>
+<li>Sentido anti-horário: forma ângulos positivos.<br /></li>
+<li>​Sentido horário: forma ângulos negativos.</li>
+</ul>
+<p><strong><span style="font-size: 18pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3. Quadrantes</span></span></span></span></span></span></span></span></span></strong></p>
+<p><span style="font-size: 14pt;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">No círculo trigonométrico, os sinais do seno, cosseno e tangente variam de acordo com a posição do ângulo:</span></span></span></span></span></span></span></span></span></p>
+<table border="1" style="width: 100.047%; height: 168.775px;">
+<tbody>
+<tr style="height: 37.575px;">
+<td style="width: 19.9956%; height: 37.575px;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Quadrante</span></span></span></span></span></span></span></span></td>
+<td style="width: 19.9956%; height: 37.575px;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Intervalo (em graus)</span></span></span></span></span></span></span></span></td>
+<td style="width: 19.9956%; height: 37.575px;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sinal do Seno</span></span></span></span></span></span></span></span></td>
+<td style="width: 19.9956%; height: 37.575px;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sinal do Cosseno</span></span></span></span></span></span></span></span></td>
+<td style="width: 19.9956%; height: 37.575px;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sinal da Tangente</span></span></span></span></span></span></span></span></td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">I</td>
+<td style="width: 19.9956%; height: 32.8px;">0º a 90º</td>
+<td style="width: 19.9956%; height: 32.8px;">+</td>
+<td style="width: 19.9956%; height: 32.8px;">+</td>
+<td style="width: 19.9956%; height: 32.8px;">+</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">II</td>
+<td style="width: 19.9956%; height: 32.8px;">90º a 180º</td>
+<td style="width: 19.9956%; height: 32.8px;">+</td>
+<td style="width: 19.9956%; height: 32.8px;">-</td>
+<td style="width: 19.9956%; height: 32.8px;">-</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">III</td>
+<td style="width: 19.9956%; height: 32.8px;">180º a 270º</td>
+<td style="width: 19.9956%; height: 32.8px;">-</td>
+<td style="width: 19.9956%; height: 32.8px;">-</td>
+<td style="width: 19.9956%; height: 32.8px;">+</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9956%; height: 32.8px;">IV</td>
+<td style="width: 19.9956%; height: 32.8px;">270º a 360º</td>
+<td style="width: 19.9956%; height: 32.8px;">-</td>
+<td style="width: 19.9956%; height: 32.8px;">+</td>
+<td style="width: 19.9956%; height: 32.8px;">-</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong><span style="font-size: 18pt;">3. Conversão de Graus para radianos</span></strong></p>
+<p><span style="font-size: 14pt;">Para a conversão de graus para radianos, utilizamos ,como base, o valor de π<sub>rad</sub> a seguir para achar outros ângulos, utilizando Substituição ou uma regra de três.</span></p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt;">π<sub>rad</sub> = 180º</span></strong></p>
+<p style="text-align: left;"><span style="font-size: 18pt;">EX1:</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"> \( \frac{6\pi}{5}\)rad = X°, se π<sub>rad</sub> = 180º</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">Logo, temos \( \frac{6 x 180}{5}\) = 216°</span></p>
+<p style="text-align: left;"><span style="font-size: 18pt;">EX2:</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">π<sub>rad </sub>= 180º</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">X = 130°</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">130 x π<sub>rad</sub> = 180X</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">X = \( \frac{130\pi}{180}\)rad = \( \frac{13\pi}{18}\)rad</span></p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;">A seguir temos alguns exemplos de conversão de graus para radianos:</p>
+<p style="text-align: left;"><br /></p>
+<table border="1" height="201" style="width: 29.9196%; height: 200.2px;">
+<tbody>
+<tr style="height: 33.3625px;">
+<td style="width: 50.0481%; height: 33.3625px;">Graus</td>
+<td style="width: 50.0481%; height: 33.3625px;">Radianos</td>
+</tr>
+<tr style="height: 33.3625px;">
+<td style="width: 50.0481%; height: 33.3625px;">30º</td>
+<td style="width: 50.0481%; height: 33.3625px;">\( \frac{\pi}{6}\)</td>
+</tr>
+<tr style="height: 33.3625px;">
+<td style="width: 50.0481%; height: 33.3625px;">45º</td>
+<td style="width: 50.0481%; height: 33.3625px;">\( \frac{\pi}{4}\)</td>
+</tr>
+<tr style="height: 33.3625px;">
+<td style="width: 50.0481%; height: 33.3625px;">60º</td>
+<td style="width: 50.0481%; height: 33.3625px;">\( \frac{\pi}{3}\)</td>
+</tr>
+<tr style="height: 33.3625px;">
+<td style="width: 50.0481%; height: 33.3625px;">90º</td>
+<td style="width: 50.0481%; height: 33.3625px;">\( \frac{\pi}{2}\)</td>
+</tr>
+<tr style="height: 33.3875px;">
+<td style="width: 50.0481%; height: 33.3875px;">270º</td>
+<td style="width: 50.0481%; height: 33.3875px;">\( \frac{3\pi}{4}\)</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779132397334-0z6xsn74p","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1. O que é o círculo trigonométrico?</span></span></span></span></span></span></span></span></strong></span><br /><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> </span></span></span></span></span></span></span></span></span></p>\n<p><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">O círculo trigonométrico é uma circunferência de raio 1, com centro na origem do plano cartesiano.</span></span></span></span></span></span></span></span></span><img src=\"{{context_path}}/content/resources/image.png\" width=\"332\" height=\"275\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Ele é usado para estudar:</span></span></span></span></span></span></span></span></span></p>\n<ul>\n<li><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Seno (eixo y)</span></span></span></span></span></span></span></span></span><br /></li>\n<li><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Cosseno (eixo x)</span></span></span></span></span></span></span></span></span></li>\n<li><span style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tangente (\\( \\tan(α)=\\frac{sen(α)}{\\cos(α)}\\))</span></span></span></span></span></span></span></span></span></span></span><span style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><br /></span></span></span></span></span></span></span></span></li>\n<li><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Localização dos ângulo</span></span></span></span></span></span></span></span></span><br /></li>\n<li><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Conversão entre graus e radianos</span></span></span></span></span></span></span></span></span></li>\n</ul>\n<p><span style=\"font-size: 18pt;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2. Sentido dos ângulos</span></span></span></span></span></span></span></span></strong></span><br /></p>\n<ul>\n<li><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">O ângulo começa no eixo x positivo.</span></span></span></span></span></span></span></span></span><br /></li>\n<li>Sentido anti-horário: forma ângulos positivos.<br /></li>\n<li>​Sentido horário: forma ângulos negativos.</li>\n</ul>\n<p><strong><span style=\"font-size: 18pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3. Quadrantes</span></span></span></span></span></span></span></span></span></strong></p>\n<p><span style=\"font-size: 14pt;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">No círculo trigonométrico, os sinais do seno, cosseno e tangente variam de acordo com a posição do ângulo:</span></span></span></span></span></span></span></span></span></p>\n<table border=\"1\" style=\"width: 100.047%; height: 168.775px;\">\n<tbody>\n<tr style=\"height: 37.575px;\">\n<td style=\"width: 19.9956%; height: 37.575px;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Quadrante</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 19.9956%; height: 37.575px;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Intervalo (em graus)</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 19.9956%; height: 37.575px;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sinal do Seno</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 19.9956%; height: 37.575px;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sinal do Cosseno</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 19.9956%; height: 37.575px;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sinal da Tangente</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">I</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">0º a 90º</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">+</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">+</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">+</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">II</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">90º a 180º</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">+</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">-</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">-</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">III</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">180º a 270º</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">-</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">-</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">+</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9956%; height: 32.8px;\">IV</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">270º a 360º</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">-</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">+</td>\n<td style=\"width: 19.9956%; height: 32.8px;\">-</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong><span style=\"font-size: 18pt;\">3. Conversão de Graus para radianos</span></strong></p>\n<p><span style=\"font-size: 14pt;\">Para a conversão de graus para radianos, utilizamos ,como base, o valor de π<sub>rad</sub> a seguir para achar outros ângulos, utilizando Substituição ou uma regra de três.</span></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 18pt;\">π<sub>rad</sub> = 180º</span></strong></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\">EX1:</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"> \\( \\frac{6\\pi}{5}\\)rad = X°, se π<sub>rad</sub> = 180º</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">Logo, temos \\( \\frac{6 x 180}{5}\\) = 216°</span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\">EX2:</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">π<sub>rad </sub>= 180º</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">X = 130°</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">130 x π<sub>rad</sub> = 180X</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">X = \\( \\frac{130\\pi}{180}\\)rad = \\( \\frac{13\\pi}{18}\\)rad</span></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\">A seguir temos alguns exemplos de conversão de graus para radianos:</p>\n<p style=\"text-align: left;\"><br /></p>\n<table border=\"1\" height=\"201\" style=\"width: 29.9196%; height: 200.2px;\">\n<tbody>\n<tr style=\"height: 33.3625px;\">\n<td style=\"width: 50.0481%; height: 33.3625px;\">Graus</td>\n<td style=\"width: 50.0481%; height: 33.3625px;\">Radianos</td>\n</tr>\n<tr style=\"height: 33.3625px;\">\n<td style=\"width: 50.0481%; height: 33.3625px;\">30º</td>\n<td style=\"width: 50.0481%; height: 33.3625px;\">\\( \\frac{\\pi}{6}\\)</td>\n</tr>\n<tr style=\"height: 33.3625px;\">\n<td style=\"width: 50.0481%; height: 33.3625px;\">45º</td>\n<td style=\"width: 50.0481%; height: 33.3625px;\">\\( \\frac{\\pi}{4}\\)</td>\n</tr>\n<tr style=\"height: 33.3625px;\">\n<td style=\"width: 50.0481%; height: 33.3625px;\">60º</td>\n<td style=\"width: 50.0481%; height: 33.3625px;\">\\( \\frac{\\pi}{3}\\)</td>\n</tr>\n<tr style=\"height: 33.3625px;\">\n<td style=\"width: 50.0481%; height: 33.3625px;\">90º</td>\n<td style=\"width: 50.0481%; height: 33.3625px;\">\\( \\frac{\\pi}{2}\\)</td>\n</tr>\n<tr style=\"height: 33.3875px;\">\n<td style=\"width: 50.0481%; height: 33.3875px;\">270º</td>\n<td style=\"width: 50.0481%; height: 33.3875px;\">\\( \\frac{3\\pi}{4}\\)</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+      <odeBlockId>block-1780758290090-u2p8pdazt</odeBlockId>
+      <blockName>Vídeo interativo</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+          <odeBlockId>block-1780758290090-u2p8pdazt</odeBlockId>
+          <odeIdeviceId>idevice-1780758290089-47wbco79h</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video-content-before"><p>No vídeo interativo a seguir, vamos retomar conceitos que foram estudados nas aulas anteriores. </p></div><div class="game-evaluation-ids js-hidden" data-id="idevice-1780758290089-47wbco79h" data-evaluationb="false" data-evaluationid="5f6cde92-8d4f-4362-a572-873f9a396aab"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=qPOHGS2yusw">com/watch?v=qPOHGS2yusw</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"image","url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.02.59.jpeg","description":"WhatsApp Image 2026-05-19 at 12.02.59.jpeg","startTime":104,"width":"685","height":"497","endTime":114,"current":false},{"type":"image","url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.03.00.jpeg","description":"WhatsApp Image 2026-05-19 at 12.03.00.jpeg","startTime":175,"width":"667","height":"506","endTime":185,"current":false},{"type":"image","url":"{{context_path}}/content/resources/WhatsApp Image 2026-06-08 at 21.12.52.jpeg","description":"WhatsApp Image 2026-06-08 at 21.12.52.jpeg","startTime":214,"width":"418","height":"272","endTime":224,"current":false},{"type":"image","url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.03.00 (1).jpeg","description":"WhatsApp Image 2026-05-19 at 12.03.00 (1).jpeg","startTime":290,"width":"659","height":"485","endTime":302,"current":false},{"type":"image","url":"{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.03.01.jpeg","description":"WhatsApp Image 2026-05-19 at 12.03.01.jpeg","startTime":385,"width":"625","height":"475","endTime":395,"current":false}],"i18n":{"start":"Iniciar","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"Veja todos os slides e responda todas as perguntas","noSlides":"Este vídeo não possui elementos interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Apenas um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de tela cheia (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, termine a atividade","check":"Verificar","newWindow":"Nova Janela","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgYouScore":"Sua pontuação","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgTypeGame":"Vídeo interativo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"5f6cde92-8d4f-4362-a572-873f9a396aab","ideviceID":"idevice-1780758290089-47wbco79h","poster":"{{context_path}}/content/resources/imagem_2026-06-06_123550100.png","title":"Vídeo Interativo","description":"","coverType":"poster","posterDescription":"imagem_2026-06-06_123550100.png"}				</script>			</div><p class="exe-interactive-video-poster sr-av"><img src="{{context_path}}/content/resources/imagem_2026-06-06_123550100.png" alt="imagem_2026-06-06_123550100.png" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.02.59.jpeg" id="exe-interactive-video-img-0" alt="" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.03.00.jpeg" id="exe-interactive-video-img-1" alt="" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-08 at 21.12.52.jpeg" id="exe-interactive-video-img-2" alt="" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.03.00 (1).jpeg" id="exe-interactive-video-img-3" alt="" /></p><p class="exe-interactive-video-img sr-av"><img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-19 at 12.03.01.jpeg" id="exe-interactive-video-img-4" alt="" /></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+      <odeBlockId>block-1780880011949-px0np1zv8</odeBlockId>
+      <blockName>Atividade GeoGebra</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+          <odeBlockId>block-1780880011949-px0np1zv8</odeBlockId>
+          <odeIdeviceId>idevice-1780880011947-3z7dxbztc</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-gk3ez27c auto-geogebra-width-1600 auto-geogebra-height-755 enableShiftDragZoom auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-idevice-1780880011947-3z7dxbztc auto-geogebra-weight-100"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780880011947-3z7dxbztc" data-evaluationb="false" data-evaluationid="0"></div><p><a href="https://www.geogebra.org/m/gk3ez27c" target="_blank">https://www.geogebra.org/m/gk3ez27c (Nova Janela)</a></p><div class="auto-geogebra-author js-hidden">Samara%20Cardoso%20Reis,https%3A//ggbm.at/63311512,C%EDrculo%20Trigonom%E9trico%20%28NTEM%29,1,Autor,1,T%EDtulo</div><div class="auto-geogebra-messages-evaluation">Atividade%20incompleta,Atividade%3A%20Aprovada.%20Pontua%E7%E3o%3A%20%25s,Atividade%3A%20N%E3o%20aprovada.%20Pontua%E7%E3o%3A%20%25s,Salvar%20pontua%E7%E3o</div><div class="auto-geogebra-messages-scorm">A%20pontua%E7%E3o%20n%E3o%20pode%20ser%20salva%20porque%20esta%20p%E1gina%20n%E3o%20faz%20parte%20de%20um%20pacote%20SCORM,Sua%20pontua%E7%E3o,Pontua%E7%E3o,Peso,A%20%FAltima%20pontua%E7%E3o%20salva%20%E9</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+      <odeBlockId>block-1780883316900-pvmuccrzd</odeBlockId>
+      <blockName>Questionário</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+          <odeBlockId>block-1780883316900-pvmuccrzd</odeBlockId>
+          <odeIdeviceId>idevice-1780883316898-v6tes9b3u</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780883316898-v6tes9b3u" data-evaluationb="false" data-evaluationid="9df6b573-e757-4238-b076-c6be770a629d"></div>
+            <div id="frmMainContainer-idevice-1780883316898-v6tes9b3u" class="form-IDevice" data-id="idevice-1780883316898-v6tes9b3u">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Complete as perguntas no questionário a seguir:</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tempo por pergunta:</span></strong>
+                        <span id="frmPTime-idevice-1780883316898-v6tes9b3u">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780883316898-v6tes9b3u" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780883316898-v6tes9b3u" type="button" class="btn btn-primary">Clique aqui para começar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780883316898-v6tes9b3u" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780883316898-v6tes9b3u" > </div>
+                        <div id="frmCover-idevice-1780883316898-v6tes9b3u" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780883316898-v6tes9b3u" class="form-results-container inline">
+                        <div id="form-score-idevice-1780883316898-v6tes9b3u" class="score-text">Pontuação.</div>
+                        <div id="form-result-test-idevice-1780883316898-v6tes9b3u" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780883316898-v6tes9b3u" class="btn btn-primary" type="button" value="Verificar"
+                            data-id="idevice-1780883316898-v6tes9b3u" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780883316898-v6tes9b3u" type="button" value="Redefinir"
+                            data-id="idevice-1780883316898-v6tes9b3u" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780883316898-v6tes9b3u" class="btn btn-primary" type="button" value="Mostrar respostas"
+                            data-id="idevice-1780883316898-v6tes9b3u" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780883316898-v6tes9b3u" type="button" value="Salvar pontuação" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780883316898-v6tes9b3u","evaluation":false,"evaluationID":"9df6b573-e757-4238-b076-c6be770a629d","repeatActivity":true,"isScorm":0,"textButtonScorm":"Salvar pontuação","weighted":100,"msgs":{"msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgYouScore":"Sua pontuação é","msgScore":"Pontuação","msgWeight":"Peso","msgYouLastScore":"A última pontuação salva é","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgActityComply":"Você já realizou esta atividade.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgTypeGame":"Formulário","msgStartGame":"Clique aqui para começar","msgTime":"Tempo por pergunta","msgSaveScore":"Salvar pontuação","msgResult":"Resultado","msgCheck":"Verificar","msgReset":"Redefinir","msgShowAnswers":"Mostrar respostas","msgTestResultPass":"Parabéns! Você passou no teste","msgTestResultNotPass":"Desculpe. Você não passou no teste","msgTrueFalseHelp":"Selecione se a afirmação é verdadeira ou falsa","msgDropdownHelp":"Escolha a resposta correta entre as opções propostas","msgFillHelp":"Preencha as lacunas com a palavra adequada","msgSingleSelectionHelp":"Escolha múltipla com apenas uma resposta correta","msgMultipleSelectionHelp":"Escolha múltipla com múltiplas respostas corretas","msgPlayStart":"Clique aqui para começar","msgTrue":"Verdadeiro","msgFalse":"Falso","msgNext":"Próximo","msgPrevious":"Anterior","msgSuggestion":"Sugestão"},"id":"idevice-1780883316898-v6tes9b3u","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Complete as perguntas no questionário a seguir:</p>","questionsData":[{"id":"1780886257116-87VCT","activityType":"selection","baseText":"<p>1) No applet do geogebra acima, se α=60°, quais são os valores, respectivamente, do seno, cosseno e tangente desse ângulo?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"0,50 ; 0,50 ; 1 "],[false,"0,87 ; 0,50 ; 1 "],[true,"0.87 ; 0,50 ; 1,73"],[false,"0,71 ; 0,71 ; 1"],[false,"0,71 ; 0,50 ; 1,73"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780886772790-1N9YM","activityType":"selection","baseText":"<p>2) Em qual quadrante encontra-se o ângulo de 6π/5 radianos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"I quadrante"],[false,"II quadrante"],[true,"III quadrante"],[false,"IV quadrante"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780887160238-C8AS1","activityType":"dropdown","baseText":"<p>3) Qual o valor, em graus, de 4π/3 radianos?</p>\n<p><u>240°</u></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"120° | 60° | 90° | 230°","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780978039548-UEMFX","activityType":"selection","baseText":"<p>4) Mova o ponto pelo círculo. Quando o ponto está no 2º quadrante o:</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"seno é negativo e o cosseno positivo"],[false," seno e cosseno são positivos "],[true,"seno é positivo e o cosseno negativo"],[false,"seno e cosseno são negativos"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780978920629-7JY04","activityType":"dropdown","baseText":"<p>5) Observe os ângulos de 30º e de 150º. O que eles tem em comum? </p>\n<p><u>Ambos possuem os mesmos valores, alterando apenas os sinais do cosseno e da tangente.</u></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"Não possuem nenhuma igualdade. | Os valores do seno e cosseno são positivos. | As tangentes são positivas. | Os sinais do seno, cosseno e tangente são iguais.","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780886682714-SG5U5","activityType":"fill","baseText":"<p>6) Diga em qual quadrante se encontra cada ângulo abaixo: (siga a tabela do resumo de círculo trigonométrico)</p>\n<p>O ângulo de 275° se encontra no <u>IV</u> quadrante.</p>\n<p>O ângulo de 70° se encontra no<u> I </u>quadrante.</p>\n<p>O ângulo de 145° se encontra no <u>II</u> quadrante.</p>\n<p>O ângulo de 204° se encontra no <u>III</u> quadrante.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1780978188138-P4IZQ","activityType":"true-false","baseText":"<p>7) Utilizando o Applet, Marque V ou F:</p>\n<p>a) Mova o ponto até encontrar um ângulo que o seno seja 1/2, ele é único?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780978271635-C0FRA","activityType":"true-false","baseText":"<p>b) Sempre que o seno aumentar, o cosseno também vai aumentar.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780978401502-9AARL","activityType":"true-false","baseText":"<p>c) O cosseno possui valores positivos no 1º e 2º quadrante.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780978351261-OJC9I","activityType":"true-false","baseText":"<p>d) Quanto mais perto o ponto P está do ângulo de 90º, menor a tangente fica.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780978423768-C9RDN","activityType":"true-false","baseText":"<p>e) Sempre que o cosseno for negativo, o seno também vai ser negativo.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780977559099-L6TSW","activityType":"fill","baseText":"<p>8) Movimente o ponto P por todo o círculo trigonométrico e observe cada quadrante. Depois, complete a tabela com os sinais do seno e cosseno em cada quadrante: ( + ou - )</p>\n<table border=\"1\" style=\"width: 50.7075%; height: 188px;\">\n<tbody>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 43.2418%; height: 37.6px;\">Quadrantes</td>\n<td style=\"width: 26.6642%; height: 37.6px; text-align: center;\">  Seno</td>\n<td style=\"width: 30.0421%; height: 37.6px; text-align: center;\">Cosseno</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 43.2418%; height: 37.6px;\">I</td>\n<td style=\"width: 26.6642%; height: 37.6px; text-align: center;\"><u>+</u></td>\n<td style=\"width: 30.0421%; height: 37.6px; text-align: center;\"><u>+</u></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 43.2418%; height: 37.6px;\">II</td>\n<td style=\"width: 26.6642%; height: 37.6px; text-align: center;\"><u>+</u></td>\n<td style=\"width: 30.0421%; height: 37.6px; text-align: center;\"><u>-</u></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 43.2418%; height: 37.6px;\">III</td>\n<td style=\"width: 26.6642%; height: 37.6px; text-align: center;\"><u>-</u></td>\n<td style=\"width: 30.0421%; height: 37.6px; text-align: center;\"><u>-</u></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 43.2418%; height: 37.6px;\">IV</td>\n<td style=\"width: 26.6642%; height: 37.6px; text-align: center;\"><u>-</u></td>\n<td style=\"width: 30.0421%; height: 37.6px; text-align: center;\"><u>+</u></td>\n</tr>\n</tbody>\n</table>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1781124227821-QVHJT","activityType":"fill","baseText":"<p>9) Utilizando o applet do geogebra, indique os valores do seno, cosseno e tangente dos ângulos a seguir:</p>\n<p>a) 240°</p>\n<p>seno: <u>-√3/2</u></p>\n<p>cosseno: <u>-1/2</u></p>\n<p>tangente: <u>√3</u></p>\n<p>b) 3π/2</p>\n<p>seno: <u>-1</u></p>\n<p>cosseno: <u>0 </u></p>\n<p>tangente: <u>não definida</u></p>\n<p>c) 315°</p>\n<p>seno: <u>-√2/2</u></p>\n<p>cosseno: <u>√2/2</u></p>\n<p>tangente: <u>-1</u></p>\n<p>d) 2π/3</p>\n<p>seno: <u>√3/2</u></p>\n<p>cosseno: <u>-1/2</u></p>\n<p>tangente: <u>√3</u></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+      <odeBlockId>block-mq6r5x9f-5chthjjn8</odeBlockId>
+      <blockName>Feedback</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgqltjy-8x12eju35</odePageId>
+          <odeBlockId>block-mq6r5x9f-5chthjjn8</odeBlockId>
+          <odeIdeviceId>idevice-1781016373918-gex69ocvn</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1781016373918-gex69ocvn" data-evaluationb="false" data-evaluationid="c8fc3be4-26b7-44be-87d7-bdada6d8c926"></div>
+            <div id="frmMainContainer-idevice-1781016373918-gex69ocvn" class="form-IDevice" data-id="idevice-1781016373918-gex69ocvn">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>O que você achou dessa aula? Marque as opções que lhe satisfazem.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tempo por pergunta:</span></strong>
+                        <span id="frmPTime-idevice-1781016373918-gex69ocvn">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1781016373918-gex69ocvn" style="display:none;">
+                      <button  id="frmStartGame-idevice-1781016373918-gex69ocvn" type="button" class="btn btn-primary">Clique aqui para começar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1781016373918-gex69ocvn" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1781016373918-gex69ocvn" > </div>
+                        <div id="frmCover-idevice-1781016373918-gex69ocvn" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1781016373918-gex69ocvn" class="form-results-container inline">
+                        <div id="form-score-idevice-1781016373918-gex69ocvn" class="score-text">Pontuação.</div>
+                        <div id="form-result-test-idevice-1781016373918-gex69ocvn" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1781016373918-gex69ocvn" class="btn btn-primary" type="button" value="Verificar"
+                            data-id="idevice-1781016373918-gex69ocvn" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1781016373918-gex69ocvn" type="button" value="Redefinir"
+                            data-id="idevice-1781016373918-gex69ocvn" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1781016373918-gex69ocvn" class="btn btn-primary" type="button" value="Mostrar respostas"
+                            data-id="idevice-1781016373918-gex69ocvn" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1781016373918-gex69ocvn" type="button" value="Salvar pontuação" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781016373918-gex69ocvn","evaluation":false,"evaluationID":"c8fc3be4-26b7-44be-87d7-bdada6d8c926","repeatActivity":true,"isScorm":0,"textButtonScorm":"Salvar pontuação","weighted":100,"msgs":{"msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgYouScore":"Sua pontuação é","msgScore":"Pontuação","msgWeight":"Peso","msgYouLastScore":"A última pontuação salva é","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgActityComply":"Você já realizou esta atividade.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgTypeGame":"Formulário","msgStartGame":"Clique aqui para começar","msgTime":"Tempo por pergunta","msgSaveScore":"Salvar pontuação","msgResult":"Resultado","msgCheck":"Verificar","msgReset":"Redefinir","msgShowAnswers":"Mostrar respostas","msgTestResultPass":"Parabéns! Você passou no teste","msgTestResultNotPass":"Desculpe. Você não passou no teste","msgTrueFalseHelp":"Selecione se a afirmação é verdadeira ou falsa","msgDropdownHelp":"Escolha a resposta correta entre as opções propostas","msgFillHelp":"Preencha as lacunas com a palavra adequada","msgSingleSelectionHelp":"Escolha múltipla com apenas uma resposta correta","msgMultipleSelectionHelp":"Escolha múltipla com múltiplas respostas corretas","msgPlayStart":"Clique aqui para começar","msgTrue":"Verdadeiro","msgFalse":"Falso","msgNext":"Próximo","msgPrevious":"Anterior","msgSuggestion":"Sugestão"},"id":"idevice-1781016373918-gex69ocvn","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>O que você achou dessa aula? Marque as opções que lhe satisfazem.</p>","questionsData":[{"id":"1781016772843-IE8PO","activityType":"selection","baseText":"","feedbackRight":"Muito obrigado pelo feedback!","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"Bom"],[true,"Ruim"],[true,"Mais fácil de aprender"],[true,"Ótimo"],[true,"Péssimo"],[true,"Prefiro a aula mais padrão."],[true,"Gostei dessa maneira "],[true,"Não gostei tanto."],[true,"Achei difícil de entender "]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
